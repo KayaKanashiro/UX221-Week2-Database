@@ -12,6 +12,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/sogrape-aura/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sogrape-offley/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sogrape-legado/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
